@@ -1,5 +1,0 @@
-PushpaimdbiUrl=https://www.imdb.com/title/tt9389998/
-PushpawikiUrl=https://en.wikipedia.org/wiki/Pushpa:_The_Rise
-
-driver.name=webdriver.gecko.driver
-driver.path=D:\\Selenium\\Firefox\\geckodriver.exe
