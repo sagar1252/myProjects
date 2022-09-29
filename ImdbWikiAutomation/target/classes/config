@@ -1,0 +1,5 @@
+imdbiMovieUrl=https://www.imdb.com/title/tt9389998/
+wikiMovieUrl=https://en.wikipedia.org/wiki/Pushpa:_The_Rise
+
+driver.name=webdriver.chrome.driver
+driver.path=D:\\Selenium\\New folder\\New folder\\chromedriver.exe
