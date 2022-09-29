@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90945" started-at="2022-09-29T04:02:25Z" finished-at="2022-09-29T04:03:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90945" started-at="2022-09-29T04:02:25Z" finished-at="2022-09-29T04:03:56Z">
+      <class name="testVagrant.testvagrantprohect.WikiImdbTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testVagrant.testvagrantprohect.WikiImdbTest@6093dd95]" name="setup" is-config="true" duration-ms="90906" started-at="2022-09-29T09:32:25Z" finished-at="2022-09-29T09:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:testVagrant.testvagrantprohect.WikiImdbTest@6093dd95]" name="testCase1" duration-ms="7" started-at="2022-09-29T09:33:56Z" finished-at="2022-09-29T09:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- testVagrant.testvagrantprohect.WikiImdbTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
